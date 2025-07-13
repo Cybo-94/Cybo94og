@@ -1,0 +1,15 @@
+{
+  "name": "cybo-website",
+  "version": "1.0.0",
+  "description": "Personal website of CYBO - Coolest Young Brain Online",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "keywords": ["cybo", "personal website", "html", "css"],
+  "author": "Tejas Sharma",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
